@@ -1,0 +1,120 @@
+html{
+     scroll-behavior: smooth;
+     background: url('https://images.squarespace-cdn.com/content/v1/53ba355be4b074d7aaf62904/1588610600916-PJ9MVR6N3UH3SGS9N8KN/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/different+grass+background.jpg?format=2500w') center center fixed; 
+     background-repeat: repeat;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+ }
+ img{
+ 	width: 295px;
+ 	height: 300px;
+	border-radius: 50%;
+	border: 5px solid white;
+	float: right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+ .home-page{
+ 	text-align: center;
+ 	font-family: sans-serif;
+ 	background-position: left top;
+ 	background: url("https://images.squarespace-cdn.com/content/v1/53ba355be4b074d7aaf62904/1588610600916-PJ9MVR6N3UH3SGS9N8KN/ke17ZwdGBToddI8pDm48kFyD7pzB8zoMIVY5aiUuFlp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0jG2lbcDYBOeMi4OFSYem8DMb5PTLoEDdB05UqhYu-xbnSznFxIRsaAU-3g5IaylIg/different+grass+background.jpg?format=2500w");
+ 	background-size: cover;
+    background-color: #44b1cf;
+    background-repeat: no-repeat;
+}
+ .navbar {
+     background-color: #f2f0f0;
+ }
+ul {
+      padding: 10px;
+      background: rgba(230, 230, 230,0.5);
+    }
+li{
+	display: inline-block;
+	text-align: center;
+    padding: 0px 10px 0px 10px;
+
+}
+div.skills{
+	color: white;
+}
+span:hover{
+	color: orange;
+	transition: all .5s;
+	font-size: 75px;
+}
+span.name{
+	color: #fff;
+	padding-top: 30px;
+}
+span.m-left{
+	margin-left: -10px;
+}
+.college{
+	background-image: url('https://www.tcceagles.com/sports/sball/2019-20/photos/Softballs_on_field_after_the_game_redesignrotator.jpg?max_width=1000');
+	background-size: cover;
+}
+div.transbox{
+	margin: 30px;
+	background-color: #fff;
+	border: 2px solid black;
+	opacity: 0.6;
+}
+div.transbox p{
+	margin: 5%;
+	font-weight: bold;
+	color: #000; 
+}
+h2{
+	text-align: center;
+}
+.logo h1{
+	color: black;
+}
+h1{
+	font-size: 50px;
+	color: #eee;
+	}
+a{
+	color: orange;
+	font-size: 20px;
+}
+a:hover{
+	background-color: white;
+}
+input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+input[type="submit"] {
+      background: orange;
+      color: white;
+    }
+.catch-me{
+	display: inline;
+	text-align: center;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+	padding: 20px;
+	color: orange;
+	font-family: sans-serif;
+	font-weight: 30%;
+}
+/*.old{
+	text-align: center;
+}*/
+div.who{
+	color: #fff;
+}
+@media (max-width: 500px)
+
+
